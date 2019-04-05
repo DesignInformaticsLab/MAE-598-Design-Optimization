@@ -36,3 +36,5 @@ pip install -r requirement.txt
 
 This should install all dependencies.
 
+Once all is done, please open ```Young's Modulus Prediction_student.ipynb```.
+
